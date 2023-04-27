@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+  .container_articles{
+    display: flex;
+    flex-direction: column;
+  }
+
+  header{
+    margin-left: 50%;
+  }
+}

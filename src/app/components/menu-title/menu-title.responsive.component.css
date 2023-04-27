@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px) {
+  .container_menu-title > h1{
+    font-size: 300%;
+    margin-left: 55%;
+  }
+
+  .container_menu-title > hr{
+    width: 145%;
+  }
+
+}

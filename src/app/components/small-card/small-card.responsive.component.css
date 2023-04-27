@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+  .small-card_title > h1{
+    font-size: 125%;
+  }
+
+  .container_small-card-separator{
+    width: 80%;
+  }
+}
